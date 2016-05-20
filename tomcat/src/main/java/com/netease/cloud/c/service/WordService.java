@@ -12,7 +12,7 @@ import com.netease.cloud.c.web.controllers.IndexController;
 
 @Service
 public class WordService {
-//add test
+//add test aaaa
 	private static final Logger log = LoggerFactory.getLogger(WordService.class);
 
 	@PostConstruct
