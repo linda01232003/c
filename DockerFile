@@ -1,0 +1,2 @@
+FROM hub.c.163.com/ncetest_onlinecxq1/ci111:master20170120014138950
+
