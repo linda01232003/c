@@ -1,2 +1,2 @@
 FROM  hub.pri.netease.com/test2345/debian:latest
-
+CMD ["sh", "-c", "sleep 2s"]
